@@ -1,6 +1,6 @@
-# Glossaire sur l'intelligence artificielle 
+# Glossaire sur l'intelligence artificielle mais pas que... 
 
-## Glossaire des termes et des sigles par ordre alphabétique
+## Glossaire des termes et des sigles sur l'ia par ordre alphabétique
 
 ---
 
@@ -102,3 +102,4 @@ Test proposé par Alan Turing (1950) : une machine le « réussit » si un humai
 
 ### Token :
 Unité de texte que le modèle manipule (souvent un morceau de mot). Le modèle lit et génère token par token. La taille de contexte et la facturation des API se comptent en tokens.
+
